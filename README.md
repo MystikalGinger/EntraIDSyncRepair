@@ -1,1 +1,1 @@
-<A href="https://github.com/MystikalGinger/EntraIDSyncRepair/releases/tag/Powershell"> Entra ID Sync Repair V1.0 </a>
+<A href="https://github.com/MystikalGinger/EntraIDSyncRepair/releases/tag/Powershell"> Entra ID Sync Repair V1.0 </a> - Supports moving users from an OU that is being synced with EntraID to an OU that is not, deleting the incorrect/mismatched accounts in EntraID, correcting the properties and then moving users back to their Original OU.
